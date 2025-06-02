@@ -1,89 +1,87 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=NEXUS-XMD" alt="Typing SVG" /></a>
-  </div>
-<a><img src='https://files.catbox.moe/78muhw.jpg'/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=RAHEEM-CMD" alt="Typing SVG" /></a>
+</div>
+
+<a><img src='https://files.catbox.moe/0gkfv4.jpg'/></a>
 
 <p align="center">
-  <a href="https://github.com/pkdriller"><img title="Developer" src="https://img.shields.io/badge/Author-NEXUS%20XMD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/Raheem-cm"><img title="Developer" src="https://img.shields.io/badge/Author-RAHEEM%20CMD-FF00FF.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{pkdriller}/count.svg" alt="pkdriller :: Visitor's Count" old_src="https://profile-counter.glitch.me/{pkdriller}/count.svg" /></p>
-
+<p align="center"><img src="https://profile-counter.glitch.me/{Raheem-cm}/count.svg" alt="Raheem-cm :: Visitor's Count" /></p>
 
 <p align='center'>
-
- <a href="https://github.com/pkdriller/NEXUS-XMD/fork"><img title="NEXUS-XMD" src="https://img.shields.io/badge/FORK-NEXUS XMD V1-h?color=008000&style=for-the-badge&logo=github"></a>
- 
+ <a href="https://github.com/Raheem-cm/RQHEEM-CMD/fork"><img title="RAHEEM-CMD" src="https://img.shields.io/badge/FORK-RAHEEM CMD V1-h?color=008000&style=for-the-badge&logo=github"></a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
 
 <!-- Action Buttons -->
 <p align="center">
   <a href="https://nexus-pair2.onrender.com/">
-    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/❤️_GET_NEXUS_SESSION1-000000?style=for-the-badge&logo=quantum&logoColor=white&color=blue" width="260" height="50"/>
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/❤️_GET_RAHEEM_SESSION1-000000?style=for-the-badge&logo=quantum&logoColor=white&color=blue" width="260" height="50"/>
    </a>
 </p>
 
 <p align="center">
   <a href="https://nexus-xmd-pair-site-am98.onrender.com/">
-    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/❤️_GET_NEXUS_SESSION2-000000?style=for-the-badge&logo=quantum&logoColor=white&color=blue" width="260" height="50"/>
+    <img title="GET SESSION OPT 2" src="https://img.shields.io/badge/❤️_GET_RAHEEM_SESSION2-000000?style=for-the-badge&logo=quantum&logoColor=white&color=blue" width="260" height="50"/>
    </a>
 </p>
+
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Pkdriller/NEXUS-XMD/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY NEXUS-AI BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Raheem-cm/RQHEEM-CMD/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY RAHEEM-CMD BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
+
 <p align="center">
   <a href="https://render.com">
     <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/👻_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
   </a>
 </p>
+
 <p align="center">
   <a href="https://railway.app?referralCode=AqkNn4">
     <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/👻_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=red&color=purple" width="260" height="50"/>
   </a>
 </p>
+
 <!-- Glowing Footer -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+NEXUS+XMD+Edition+by+Pkdriller👻;⚡+The+Best+Simple+WhatsApp+Bot+Allover+The+Glob" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+RAHEEM+CMD+Edition+by+Raheem👻;⚡+The+Best+Simple+WhatsApp+Bot+Allover+The+Glob" alt="Footer Animation">
 </h3>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-*FOR PANEL DEPLOYMENT*
-
+<!-- FOR PANEL DEPLOYMENT -->
 ---
 
 ### 📦 Download the Bot File
 
 <p align="center">
-  <a href="https://github.com/Pkdriller/NEXUS-XMD/archive/refs/heads/main.zip">
+  <a href="https://github.com/Raheem-cm/RQHEEM-CMD/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=white" alt="Download Bot File" />
   </a>
 </p>
 
-[![REPORT PROBLEM](https://img.shields.io/badge/REPORT%20PROBLEM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254794146821?text=Hello%2C%20I%20want%20to%20report%20a%20problem%20with%20this%20project.)
+[![REPORT PROBLEM](https://img.shields.io/badge/REPORT%20PROBLEM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255763111390?text=Hello%2C%20I%20want%20to%20report%20a%20problem%20with%20this%20project.)
 
+⭐ Follow My GitHub ⭐  
+[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=Account&color=800000&style=for-the-badge&logo=github&logoColor=pink)](https://github.com/Raheem-cm) 
 
-⭐ Follow My GitHub ⭐
-[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=Account&color=800000&style=for-the-badge&logo=github&logoColor=pink)](https://github.com/pkdriller) 
 <p align="center">
-    
-THANKS ALL FOR SUPPORTING ⏮️💙⏩
-[![Stargazers repo roster for @Pkdriller/NEXUS-XMD](http://reporoster.com/stars/dark/Pkdriller/NEXUS-XMD)](https://github.com/Pkdriller/NEXUS-XMD/stargazers)
-     
-[![Forkers repo roster for @Pkdriller/NEXUS-XMD](http://reporoster.com/forks/dark/Pkdriller/NEXUS-XMD)](https://github.com/Pkdriller/NEXUS-XMD/network/members)
+  THANKS ALL FOR SUPPORTING ⏮️💙⏩
+  [![Stargazers repo roster for @Raheem-cm/RQHEEM-CMD](http://reporoster.com/stars/dark/Raheem-cm/RQHEEM-CMD)](https://github.com/Raheem-cm/RQHEEM-CMD/stargazers)
 
+  [![Forkers repo roster for @Raheem-cm/RQHEEM-CMD](http://reporoster.com/forks/dark/Raheem-cm/RQHEEM-CMD)](https://github.com/Raheem-cm/RQHEEM-CMD/network/members)
 </p>
-
-
