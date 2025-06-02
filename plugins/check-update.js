@@ -27,7 +27,7 @@ cmd({
     }
 
     // Fetch latest version data from GitHub
-    const rawVersionUrl = 'https://raw.githubusercontent.com/Pkdriller/NEXUS-XMD/main/data/version.json';
+    const rawVersionUrl = 'https://raw.githubusercontent.com/Raheem-cm/RAHEEM-CMD/main/data/version.json';
     let latestVersion = 'Unknown';
     let latestChangelog = 'No changelog available.';
     try {
@@ -53,12 +53,12 @@ cmd({
     const lastUpdate = fs.statSync(localVersionPath).mtime.toLocaleString();
 
     // GitHub stats
-    const githubRepo = 'https://github.com/Pkdriller/NEXUS-XMD';
+    const githubRepo = 'https://github.com/Pkdriller/RAHEEM-CMD';
 
     // Check update status
-    let updateMessage = `✅ Your NEXUS-XMD bot is up-to-date!`;
+    let updateMessage = `✅ Your RAHEEM-CMD bot is up-to-date!`;
     if (localVersion !== latestVersion) {
-      updateMessage = `🚀 Your NEXUS-XMD bot is outdated!
+      updateMessage = `🚀 Your RAHEEM-CMD bot is outdated!
 🔹 *Current Version:* ${localVersion}
 🔹 *Latest Version:* ${latestVersion}
 
@@ -66,14 +66,14 @@ Use *.update* to update.`;
     }
 
     const statusMessage = `🌟 *Good ${new Date().getHours() < 12 ? 'Morning' : 'Night'}, ${pushname}!* 🌟\n\n` +
-      `📌 *Bot Name:* NEXUS-XMD\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
+      `📌 *Bot Name:* RAHEEM-CMD\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
       `💾 *System Info:*\n⏳ *Uptime:* ${uptime}\n📟 *RAM Usage:* ${ramUsage}MB / ${totalRam}MB\n⚙️ *Host Name:* ${hostName}\n📅 *Last Update:* ${lastUpdate}\n\n` +
       `📝 *Changelog:*\n${latestChangelog}\n\n` +
-      `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [Pkdriller](https://github.com/Pkdriller)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
+      `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [Raheem-cm](https://github.com/Raheem-cm)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
 
     // Send the status message with an image
     await conn.sendMessage(from, {
-      image: { url: 'https://files.catbox.moe/ug8w1x.jpg' },
+      image: { url: 'https://files.catbox.moe/oy2mu6.jpg' },
       caption: statusMessage,
       contextInfo: {
         mentionedJid: [m.sender],
