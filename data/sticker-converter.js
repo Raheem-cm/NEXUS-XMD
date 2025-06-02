@@ -1,10 +1,17 @@
+/**
+ * RAHEEM-CMD WhatsApp Bot – Sticker to Image Converter
+ * Author: +255763111390
+ * GitHub: https://github.com/Raheem-cm/RQHEEM-CMD
+ * Description:
+ * Converts WhatsApp webp stickers into PNG images using FFmpeg.
+ */
+
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
-const ffmpegPath = require('@ffmpeg-installer/ffmpeg').path;
 const ffmpeg = require('fluent-ffmpeg');
+const ffmpegPath = require('@ffmpeg-installer/ffmpeg').path;
 
-// Set ffmpeg path
+// Configure ffmpeg path
 ffmpeg.setFfmpegPath(ffmpegPath);
 
 class StickerConverter {
@@ -13,39 +20,48 @@ class StickerConverter {
         this.ensureTempDir();
     }
 
+    // Ensure temporary directory exists
     ensureTempDir() {
         if (!fs.existsSync(this.tempDir)) {
             fs.mkdirSync(this.tempDir, { recursive: true });
         }
     }
 
+    /**
+     * Convert a WhatsApp webp sticker buffer into a PNG image buffer.
+     * @param {Buffer} stickerBuffer - The buffer of the webp sticker.
+     * @returns {Promise<Buffer>} - The PNG image buffer.
+     */
     async convertStickerToImage(stickerBuffer) {
-        const tempPath = path.join(this.tempDir, `sticker_${Date.now()}.webp`);
-        const outputPath = path.join(this.tempDir, `image_${Date.now()}.png`);
+        const timestamp = Date.now();
+        const tempInput = path.join(this.tempDir, `sticker_${timestamp}.webp`);
+        const tempOutput = path.join(this.tempDir, `image_${timestamp}.png`);
 
         try {
-            // Save sticker to temp file
-            await fs.promises.writeFile(tempPath, stickerBuffer);
+            // Save sticker buffer to file
+            await fs.promises.writeFile(tempInput, stickerBuffer);
 
-            // Convert using fluent-ffmpeg (same as your video sticker converter)
+            // Convert using FFmpeg
             await new Promise((resolve, reject) => {
-                ffmpeg(tempPath)
-                    .on('error', reject)
+                ffmpeg(tempInput)
+                    .on('error', (err) => {
+                        console.error(`[RAHEEM-CMD] FFmpeg conversion failed: ${err.message}`);
+                        reject(err);
+                    })
                     .on('end', resolve)
-                    .output(outputPath)
+                    .output(tempOutput)
                     .run();
             });
 
-            // Read and return converted image
-            return await fs.promises.readFile(outputPath);
+            // Return converted image buffer
+            return await fs.promises.readFile(tempOutput);
         } catch (error) {
-            console.error('Conversion error:', error);
-            throw new Error('Failed to convert sticker to image');
+            throw new Error('[RAHEEM-CMD] Failed to convert sticker to image.');
         } finally {
-            // Cleanup temp files
+            // Clean up temp files
             await Promise.all([
-                fs.promises.unlink(tempPath).catch(() => {}),
-                fs.promises.unlink(outputPath).catch(() => {})
+                fs.promises.unlink(tempInput).catch(() => {}),
+                fs.promises.unlink(tempOutput).catch(() => {})
             ]);
         }
     }
