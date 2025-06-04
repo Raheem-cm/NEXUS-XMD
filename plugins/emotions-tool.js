@@ -346,4 +346,4 @@ async (conn, mek, m, { from, reply }) => {
     }
 });
 
-// > JawadTechX 
+// > Dullah TechX 
